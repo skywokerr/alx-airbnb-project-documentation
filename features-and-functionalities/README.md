@@ -1,0 +1,1 @@
+conntains information about features and functionalities
